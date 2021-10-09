@@ -1,0 +1,2 @@
+# ZOMATO-EDA
+EDA on the Zomato Datasets such as Loading of the Dataset, Data Cleaning, and Data Visualization. It helps to discover insights from the data set, summarize the key relationships, identifying underlying parameters, etc. EDA on Zomato Dataset helps organizations in studying the data at hand and unlocking patterns or trends to further define their KPIs (Key Performance Indicators). You have to follow a step-wise guide to perform such EDA on Zomato Dataset which we will be discussing in this video.
